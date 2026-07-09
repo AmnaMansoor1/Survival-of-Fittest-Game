@@ -36,7 +36,7 @@ This project was developed to fulfill the following technical requirements:
 - **Mixamo Characters & Animations**: Character models and animations imported from Adobe Mixamo.
 
 ### Advanced Features
-- **Unity Ads Integration**: In-game ad support for monetization (rewarded ads, interstitials, etc.).
+-
 - **IEnumerators**: Used extensively for coroutines, timers, spawn delays, and asynchronous events.
 
 ---
